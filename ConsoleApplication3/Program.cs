@@ -13,6 +13,7 @@ namespace ConsoleApplication3
             //sadadadasd
             int i = 0;
             //asda
+            //asdsaldn
             Console.Write(i);
         }
     }
