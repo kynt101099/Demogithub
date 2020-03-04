@@ -11,6 +11,8 @@ namespace ConsoleApplication3
         static void Main(string[] args)
         {
             //sadadadasd
+            int i = 0;
+            Console.Write(i);
         }
     }
 }
